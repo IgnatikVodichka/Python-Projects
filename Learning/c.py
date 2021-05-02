@@ -14,7 +14,7 @@ print('b1 and b2=', b1 and b2)
 print('b1 == b2 =', b1 == b2)
 print('5 == 5', 5 == 5)
 
-# logical operator != , used to compare values and see they are not the same
+# logical operator != , used to compare values and see if they are not the same
 print('b1 != b2=', b1 != b2)
 print('5 != 3 -', 5 != 3)
 
