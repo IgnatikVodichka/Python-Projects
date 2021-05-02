@@ -13,10 +13,11 @@ print('Sum of number1 and number 2 as STRINGS ONLY:', num1+num2)
 
 print()
 
-# to make it a integer, a whole number we will need to put INT operator in the veriable
+# to make it an integer, a whole number we will need to put INT operator in the veriable
 print('Sum of number1 and number 2 as INTEGERS: ', int(num1) + int(num2))
 
 # or we can put INT operator initially before user enters variable, it will already be a whole number when he enters it.
+# Keep in mind that if he tries to enter a string (plain text) it will not be accepted by the programm
 num3 = int(input('Enter Third Number:'))
 print('number3=', num3)
 print('Sum of three number: ', num3 + int(num1) + int(num2))
