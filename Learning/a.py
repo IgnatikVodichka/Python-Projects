@@ -3,10 +3,10 @@
 print('Hello World')  # print - displaying string(text) or a number in brackets
 print('ABC')
 print('2+3')  # if anything put in quotes it will be displayed as a string (text)
-print(2+3)  # if without quotes it's a number and it will add it or subtract
+print(2+3)  # if without quotes it's a number and it will add it or subtract or make any calculus with it
 print('Hello Mike ' + "and Garfield")  # you can add strings to each other
 # you can make space between them with , which is called sep
-print('Hello Mike' 'and Garfield')
+print('Hello Mike', 'and Garfield')
 # you can assign sep whatever you like it to be
 print('hello mike', 'and John', sep='abcdef')
 # with \ reverse slash you can disregard the quotes and with \n you can put what ever following after to new paragraph
@@ -27,7 +27,8 @@ print(username)
 
 iexist = True  # boolean
 print(iexist)
-# we can change variable value as we go. But usually it's not recommended to do so. Variable should be assigned for single purpose and not changed.
+# we can change variable value as we go. But usually it's not recommended to do so.
+# Variable should be assigned for single purpose and not changed.
 iexist = False
 print("It Exists:", iexist)
 
