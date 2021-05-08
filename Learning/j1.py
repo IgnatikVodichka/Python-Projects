@@ -8,7 +8,7 @@ array = int(random.random() * 10)  # making random number an integer
 print(array)
 
 # creating random list with integers inside
-array1 = [int(random.random() * 10) for i in range(1, 10)]
+array1 = [int(random.random() * 10) for i in range(1, 100)]
 print(array1)
 # pushing 'list' directly into 'set' to exclude all the duplicates
 myset = set(array1)

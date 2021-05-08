@@ -13,7 +13,7 @@ print(f'Last element is {list[len(list) - 1]}')  # same as (list[-1])
 print('-------------')
 
 i = 0
-# this cycle will give us all the element untill it reaches the end of the list.
+# this cycle will give us all the elements untill it reaches the end of the list.
 while i < len(list):
     print(list[i])
     i += 1

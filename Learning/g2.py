@@ -7,6 +7,4 @@ while True:
         print(sum)
         sum = 0
         continue
-
-    num = int(s)
-    sum += num
+    sum += int(s)
