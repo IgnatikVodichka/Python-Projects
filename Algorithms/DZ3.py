@@ -2,21 +2,28 @@ import random
 from random import randint
 from random import randrange
 
+a = (input('Please enter start: '))
+b = (input('Please enter end: '))
+choice = input(
+    'Please pick one option to create: \n To create one random integer enter 1; \n To create one random real number enter 2; \n To create one random symbol letter enter 3; \n What is your choice:   ')
 
-from random import randint
-from random import randrange
+if choice == '1':
+    a = int(a)
+    b = int(b)
+    result = random.randint(a, b)
 
-a = int(input('Please enter start: '))
-b = int(input('Please enter end: '))
-number = int(random.randrange(a, b))
-print(number)
+elif choice == '2':
+    a = float(a)
+    b = float(b)
+    result = random.uniform(a, b)
+    print(f'{result:.3f}')
 
-a = float(input('Please enter start: '))
-b = float(input('Please enter end: '))
-number = float(random.randrange(a, b))
-print(number)
+elif choice == '3':
+    a = ord(a)
+    b = ord(b)
+    result = chr(random.randint(a, b))
 
-a = ord(input('Please enter start: '))
-b = ord(input('Please enter end: '))
-number = (random.randrange(a, b))
-print(chr(number))
+else:
+    print('Undefiened')
+
+print(result)
