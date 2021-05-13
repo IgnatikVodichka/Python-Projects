@@ -1,18 +1,6 @@
-a = int(input('Please enter line "a":  '))
-b = int(input('Please enter line "b":  '))
-c = int(input('Please enter line "c":  '))
+year = int(input('Please enter a year in such format "YYYY":  '))
 
-if a + b <= c or a + c <= b or b + c <= a:
-    print('Such triangular doesnt exist')
-
-elif a != b and a != c and b != c:
-    print('This triangular is "Scalene"')
-
-elif a == b == c:
-    print('This triangular is Equilateral')
-
+if year % 4 != 0 or (year % 100 == 0 and year % 400 != 0):
+    print('This year is regular year')
 else:
-    print('This triangular is Isosceles')
-
-if c ^ 2 == a ^ 2 + b ^ 2 or a ^ 2 == b ^ 2 + c ^ 2 or b ^ 2 == a ^ 2 + c ^ 2:
-    print('This is also a "Right triangular"')
+    print('This year is a leap year')
