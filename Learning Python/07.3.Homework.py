@@ -14,5 +14,7 @@ user_set = set(user_list)
 print(user_set)
 print(len(user_set))
 
+print()
+
 for i in user_set:
     print(i)

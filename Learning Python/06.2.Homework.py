@@ -9,7 +9,7 @@ for ele in range(len(array)):
     total = total + array[ele]
 div = total / array[-1]
 print(f'Total sum of elements: {total} ')
-print(f'Total sum of elements: {div} ')
+print(f'Average of elements: {div} ')
 
 x = 0
 s = 0
@@ -19,4 +19,4 @@ while x < len(array1):
     x += 1
 c = s / array[-1]
 print(f'Total sum of elements: {total} ')
-print(f'Total sum of elements: {c} ')
+print(f'Average of elements: {c} ')
