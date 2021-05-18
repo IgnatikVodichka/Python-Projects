@@ -46,7 +46,7 @@ print('-------------')
 prices = [20, 40, 50, 15, 32, 80]
 min = prices[0]
 max = prices[0]
-i = 1
+i = 0
 while i < len(prices):
     if prices[i] < min:
         min = prices[i]
