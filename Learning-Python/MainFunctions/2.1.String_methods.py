@@ -35,7 +35,7 @@ print(hello.strip())
 
 print('-------------')
 
-# this function can be use as a format for displaying pre-made stencil and give it values refering to it's index
+# this method can be use as a format for displaying pre-made stencil and give it values refering to it's index
 greetings = 'Hello, {0}. You are {1} old'
 print(greetings.format('Ignat', 28))
 

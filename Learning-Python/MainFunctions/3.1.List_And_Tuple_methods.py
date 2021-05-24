@@ -34,3 +34,5 @@ print(user_list)
 # sorts the list from greatest to smallest numbers
 user_list.sort(reverse=True)
 print(user_list)
+
+# with tuple you can do same operations except the ones that change tuple, because tuples can't be changed.

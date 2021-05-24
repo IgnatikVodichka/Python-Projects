@@ -18,6 +18,7 @@ print(type(myset_3))
 
 print()
 
+# creating a list in range from 0 to 9 (10 is not included)
 list = [i for i in range(0, 10)]
 print(list)
 
