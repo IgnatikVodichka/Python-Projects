@@ -1,6 +1,6 @@
 # 'w' - means that we need to write a file, and if there is no such file it will be created.And if file exsists all it's content will be erased.
 # 'x' - means that we want to write in the file and all it's content to be earased but if file doesn't exist, returns error.
-# 'a' - means that we want to write in file and whatever we write will be add in the end of the file.
+# 'a' - means that we want to write in file and whatever we write will be added in the end of the file.
 # 'r' - means that we want to read file.
 # 'rt' - opens like text file.
 # 'rb' - opens file like binary file. (pictures, mp3 files etc...)
