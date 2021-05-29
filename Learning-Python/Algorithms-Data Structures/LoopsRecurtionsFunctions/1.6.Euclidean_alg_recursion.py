@@ -1,8 +1,8 @@
-#This is recursion so it can have and Error of stack overflow.
+# Recursion function to find GCD
+# This is recursion so it can have and Error of stack overflow.
+
 def gcd(m, n):
-    if n == 0:
-        return m
-    return gcd(n, m % n)
+    return m if n == 0 else gcd(n, m % n)
 
 
-print(gcd(1701, 3768))
+print(gcd(2, 6))

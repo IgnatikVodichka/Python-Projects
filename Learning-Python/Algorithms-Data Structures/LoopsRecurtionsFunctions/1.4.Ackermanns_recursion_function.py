@@ -10,7 +10,7 @@ def Ackfunc(m, n):
     elif m > 0 and n == 0:
         return Ackfunc(m-1, 1)
 
-    # we have written here without 'elif' or 'else' because if first 2 'ifs' will be True than 3rd line infunction will not be executed
+    # we have written here without 'elif' or 'else' because if first 2 'ifs' will be True than 3rd line in function will not be executed
     return Ackfunc(m-1, Ackfunc(m, n-1))
 
 
