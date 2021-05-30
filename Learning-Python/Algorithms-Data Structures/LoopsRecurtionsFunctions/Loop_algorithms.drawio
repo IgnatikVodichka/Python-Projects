@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="M4vruVyRiMkwd9TWjfhX" name="1.3">
-        <mxGraphModel dx="570" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+        <mxGraphModel dx="810" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -92,7 +92,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="WvWvbBL4U0hH1dh7uA5E" name="1.4.Akkerman function">
-        <mxGraphModel dx="570" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+        <mxGraphModel dx="810" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
             <root>
                 <mxCell id="ZDaxiKDmxWVDDlFm1XxA-0"/>
                 <mxCell id="ZDaxiKDmxWVDDlFm1XxA-1" parent="ZDaxiKDmxWVDDlFm1XxA-0"/>
@@ -182,7 +182,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="Q_7a5es64BrHsYmzT0rj" name="Euclidean_algorithm">
-        <mxGraphModel dx="570" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+        <mxGraphModel dx="810" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
             <root>
                 <mxCell id="pAtoyhg9l4RPakUxPp27-0"/>
                 <mxCell id="pAtoyhg9l4RPakUxPp27-1" parent="pAtoyhg9l4RPakUxPp27-0"/>
@@ -261,7 +261,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Euclidean_algorithm_recursion" id="AwhQEXdf2wl_mJkQNsrn">
-        <mxGraphModel dx="570" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+        <mxGraphModel dx="810" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
             <root>
                 <mxCell id="xmzUvvyBv9rUKXLdJyi6-0"/>
                 <mxCell id="xmzUvvyBv9rUKXLdJyi6-1" parent="xmzUvvyBv9rUKXLdJyi6-0"/>
@@ -305,7 +305,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Euclidean_algorithm_Loop" id="AZqCosPeiQ9cP8kBidhV">
-        <mxGraphModel dx="570" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+        <mxGraphModel dx="810" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
             <root>
                 <mxCell id="Y0tLtC83ZistXatWVus2-0"/>
                 <mxCell id="Y0tLtC83ZistXatWVus2-1" parent="Y0tLtC83ZistXatWVus2-0"/>
@@ -357,7 +357,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="_EukYsfuQ-tB6Bq7rdaD" name="Sieve of Eratosthenes">
-        <mxGraphModel dx="570" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+        <mxGraphModel dx="810" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
             <root>
                 <mxCell id="UV-TQj7t4vOMQlDTiRUn-0"/>
                 <mxCell id="UV-TQj7t4vOMQlDTiRUn-1" parent="UV-TQj7t4vOMQlDTiRUn-0"/>
@@ -519,7 +519,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="4HprKjHroLY70yOOBiq0" name="Decimals to binaries">
-        <mxGraphModel dx="570" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+        <mxGraphModel dx="810" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
             <root>
                 <mxCell id="vWtDauBJ9S4PjGYWqdZz-0"/>
                 <mxCell id="vWtDauBJ9S4PjGYWqdZz-1" parent="vWtDauBJ9S4PjGYWqdZz-0"/>
