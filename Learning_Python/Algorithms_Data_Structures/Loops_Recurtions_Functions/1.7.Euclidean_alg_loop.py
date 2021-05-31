@@ -7,4 +7,4 @@ def gcd(m, n):
     return m
 
 
-print(gcd(8, 4))
+print(gcd(2444, 5334))

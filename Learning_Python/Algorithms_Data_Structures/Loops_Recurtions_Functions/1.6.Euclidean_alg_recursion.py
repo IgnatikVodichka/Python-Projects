@@ -5,4 +5,4 @@ def gcd(m, n):
     return m if n == 0 else gcd(n, m % n)
 
 
-print(gcd(2, 6))
+print(gcd(861, 2345))

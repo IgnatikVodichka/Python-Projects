@@ -11,5 +11,5 @@ def gcd(m, n):
     return m
 
 
-print(gcd(54, 24))
+print(gcd(345, 681))
 print(gcd(24, 54))
