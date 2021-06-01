@@ -7,5 +7,5 @@ print(a, b)
 
 a = [1, 2, 3, 4, 5]
 b = a
-a += [6, 7, 8]  # here no NEW list was created
+a += [6, 7, 8]  # here No NEW list was created
 print(a, b)

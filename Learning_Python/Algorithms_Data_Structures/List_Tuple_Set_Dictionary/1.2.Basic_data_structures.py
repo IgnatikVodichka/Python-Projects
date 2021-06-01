@@ -5,8 +5,9 @@ board = [row] * 3  # created a board consisting of 3 rows(lines)
 print(board)
 print()
 # Here we can see that X appeared everywhere in each row in each column.
-# That happens because list has 'linked data structures' so list keeps not objects in it self but links to that objects.
-# When we made a row we created a list with 3 empty objects, so when we created board it made a link in each row to same objects.
+# That happens because list has 'linked data structures' so list keeps not objects in itself but links to that objects.
+# When we made a row we created a list with 3 empty objects,
+# so when we created board it made a link in each row to same objects.
 board[0][0] = 'X'
 print(board)
 print()
@@ -17,4 +18,5 @@ board = [[''] * 3 for _ in range(3)]
 print(board)
 print()
 board[0][0] = 'X'
-print(board)
+for item in board:
+    print(item)  # here we just made a square dusplay of lists.

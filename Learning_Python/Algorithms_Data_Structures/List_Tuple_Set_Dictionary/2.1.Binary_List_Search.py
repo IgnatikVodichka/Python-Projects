@@ -19,6 +19,7 @@ def bin_search(array, value):
 
 a = [random.randint(0, 1000) for _ in range(0, 100)]
 print(a)
+# a.sort()
 b = []
 
 # sorting the list
