@@ -15,6 +15,7 @@ if choice == '1':
 elif choice == '2':
     a = float(a)
     b = float(b)
+    # .uniform returns a random floating number between the two specified numbers (both included).
     result = random.uniform(a, b)
     print(f'{result:.3f}')
 
