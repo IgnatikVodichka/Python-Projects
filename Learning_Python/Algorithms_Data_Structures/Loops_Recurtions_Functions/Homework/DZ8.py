@@ -1,3 +1,5 @@
+
+
 qty = int(input('Please enter how many numbers will be: '))
 digit = int(input('Please eneter digit to look for in numbers: '))
 counter = 0

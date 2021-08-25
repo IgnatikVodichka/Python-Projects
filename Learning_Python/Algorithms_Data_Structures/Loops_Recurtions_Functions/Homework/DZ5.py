@@ -1,4 +1,5 @@
 
+
 for i in range(32, 128):
     # (end ='') used to not start from a next paragraph
     print(f'\t{i} - {chr(i)}', end='')

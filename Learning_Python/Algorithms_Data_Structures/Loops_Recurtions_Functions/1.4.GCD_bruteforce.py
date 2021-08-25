@@ -1,4 +1,5 @@
 
+
 # GCD brute force, trying all the possible numbers
 
 num1 = int(input('Please input frist number: '))

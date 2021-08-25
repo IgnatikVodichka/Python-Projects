@@ -1,3 +1,5 @@
+
+
 # same operators but different story:
 a = [1, 2, 3, 4, 5]
 b = a  # 'b' is assigned the OLD 'a'.That's why it stays same

@@ -2,6 +2,7 @@ import random
 from random import randint
 from random import randrange
 
+
 a = (input('Please enter start: '))
 b = (input('Please enter end: '))
 choice = input(

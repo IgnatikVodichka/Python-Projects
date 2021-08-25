@@ -1,4 +1,6 @@
 
+
+
 num = input('Please enter number: ')
 even = odd = 0
 

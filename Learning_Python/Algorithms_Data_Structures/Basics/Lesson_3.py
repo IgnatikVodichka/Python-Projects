@@ -1,3 +1,5 @@
+
+
 x = int(input('Please enter x value for F(x): '))
 if x > 0:
     y = 2 * x - 10

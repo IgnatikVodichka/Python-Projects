@@ -1,4 +1,6 @@
 import random
+
+
 # matrix dioganal sum
 size = 3
 

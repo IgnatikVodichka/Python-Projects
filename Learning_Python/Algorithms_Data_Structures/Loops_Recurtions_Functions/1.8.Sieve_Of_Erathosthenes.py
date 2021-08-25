@@ -1,5 +1,6 @@
 
-n = int(input('Please input till what number to make a list of prime numbers: '))
+
+n = int(input('Please input untill what number to make a list of prime numbers: '))
 
 sieve = [i for i in range(n)]
 sieve[1] = 0

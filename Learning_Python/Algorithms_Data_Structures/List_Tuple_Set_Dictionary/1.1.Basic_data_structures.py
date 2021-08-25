@@ -1,3 +1,5 @@
+
+
 # 1.Deleting element from the list during iteration of this list:
 
 list_1 = [1, 2, 3, 4]

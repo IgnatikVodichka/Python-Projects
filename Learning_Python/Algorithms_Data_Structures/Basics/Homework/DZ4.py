@@ -1,3 +1,5 @@
+
+
 first_letter = input('Please enter first letter:  ')
 second_letter = input('Please enter second letter:  ')
 

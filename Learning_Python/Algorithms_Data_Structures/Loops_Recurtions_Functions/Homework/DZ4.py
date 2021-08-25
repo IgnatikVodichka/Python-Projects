@@ -1,4 +1,5 @@
 
+
 n = int(input('Please enter length of sum elements: '))
 item = 1
 summ = 0

@@ -1,3 +1,5 @@
+
+
 # Optimal algorithm to find GCD because it goes through the loop and doesn't have disadvanteges of other 2 algorithms
 
 def gcd(m, n):

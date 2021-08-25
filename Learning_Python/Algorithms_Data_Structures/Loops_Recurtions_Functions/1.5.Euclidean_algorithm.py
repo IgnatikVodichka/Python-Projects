@@ -1,3 +1,5 @@
+
+
 # Euclidean algorithm to find the greatest common divisor
 # Subtraction takes a lot of time with big numbers
 # Also if one of the numbers == 0 than it will go into endless loop

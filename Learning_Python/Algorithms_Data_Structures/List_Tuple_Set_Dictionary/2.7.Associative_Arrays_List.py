@@ -1,3 +1,5 @@
+
+
 k = int(input('How many enterprises do you want to be included? '))
 enterprises = {}
 

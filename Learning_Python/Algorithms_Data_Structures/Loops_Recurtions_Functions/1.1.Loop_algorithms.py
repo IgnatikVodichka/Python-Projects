@@ -1,3 +1,5 @@
+
+
 # how to get all the digits from a number
 
 num = int(input('Enter any whole number: '))

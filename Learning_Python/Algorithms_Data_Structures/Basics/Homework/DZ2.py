@@ -1,3 +1,5 @@
+
+
 x1 = float(input(' Please input x1 for function: '))
 y1 = float(input(' Please input y1 for function: '))
 

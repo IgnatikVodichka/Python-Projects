@@ -1,3 +1,5 @@
+
+
 num = int(input('Please enter any natural number or press "0" to exit: '))
 
 max_num = 0

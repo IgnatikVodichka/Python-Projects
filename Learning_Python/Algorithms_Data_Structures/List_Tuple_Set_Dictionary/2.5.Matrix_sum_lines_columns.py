@@ -1,5 +1,6 @@
 import random
 
+
 size = 4
 
 matrix = [[random.randint(1, 10) for _ in range(size)] for _ in range(size)]

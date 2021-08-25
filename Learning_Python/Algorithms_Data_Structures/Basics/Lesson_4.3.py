@@ -1,3 +1,5 @@
+
+
 num = int(input('Please enter a number: '))
 ans = input('Please enter "b" - for bites and "k" - for kilobites: ')
 

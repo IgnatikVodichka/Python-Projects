@@ -1,3 +1,5 @@
+
+
 # Finding sum and multiplication of three digits of a number of which it consists:
 x = int(input('Please Enter a three digit number: '))
 a = x // 100

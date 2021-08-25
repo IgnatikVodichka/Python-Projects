@@ -1,3 +1,5 @@
+
+
 def binary(num):
     s = ''
     while num > 0:

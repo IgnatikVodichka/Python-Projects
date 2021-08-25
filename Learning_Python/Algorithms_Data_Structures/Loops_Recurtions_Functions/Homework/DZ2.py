@@ -1,4 +1,6 @@
 
+
+
 num = int(input('Please enter number: '))
 
 odd = 0

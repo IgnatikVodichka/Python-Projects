@@ -1,4 +1,6 @@
 import random
+
+
 # first solution
 rn = random.randint(0, 100)
 print(rn)
