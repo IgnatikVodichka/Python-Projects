@@ -12,4 +12,5 @@ for x in a:
             dupes.append(x)
         seen[x] += 1
 
-print(seen, dupes)
+print(seen)
+print(dupes)
